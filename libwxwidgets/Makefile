@@ -121,8 +121,9 @@ CONFIGURE_ARGS+= \
 # endef
 
 define Build/Clean
-	rm -rf $(STAGING_DIR)/usr/include/wx
-	rm -rf $(STAGING_DIR)/usr/lib/libwx*
+	#rm -rf $(STAGING_DIR)/usr/include/wx
+	#rm -rf $(STAGING_DIR)/usr/lib/libwx*
+	#bmchina modified
 endef
 
 define Package/${PKG_NAME}/install
