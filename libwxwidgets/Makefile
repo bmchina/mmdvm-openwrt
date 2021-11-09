@@ -6,8 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=libwxwidgets
-#PKG_REV:=WX_3_0_BRANCH
-PKG_REV:=v3.1.5
+PKG_REV:=WX_3_0_BRANCH
 PKG_VERSION:=3.0
 PKG_RELEASE:=1
 
