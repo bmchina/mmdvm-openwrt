@@ -8,6 +8,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=mmdvm-host
 #PKG_REV:=f71c8ce
 #PKG_REV:=b2ba671
+#PKG_REV:1bb1e9d
 PKG_REV:=1f72bf1
 PKG_VERSION:=1.2.0
 PKG_RELEASE:=7
